@@ -1,0 +1,5 @@
+df <- read.csv("FeatureData.csv")
+anova_result <- aov(user_score ~ platform, data = df)
+summary(anova_result)
+anova_result <- aov(meta_score ~ platform, data = df)
+summary(anova_result)
