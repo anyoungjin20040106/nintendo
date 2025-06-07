@@ -16,7 +16,7 @@
   - Kaggle의 Nintendo Games Dataset (https://www.kaggle.com/datasets/mrmorj/nintendo-games-dataset)
   - Kaggle의 Nintendo Games by Joebeachcapital (https://www.kaggle.com/datasets/joebeachcapital/nintendo-games)
 - **수집 방법**:
-  - Kaggle API를 사용하여 데이터 다운로드
+  - Kaggle을 사용하여 데이터 다운로드
   - 두 데이터셋을 병합하여 사용
 - **분석 대상**:
   - 플랫폼: Switch, Wii, GameCube, DS 등
